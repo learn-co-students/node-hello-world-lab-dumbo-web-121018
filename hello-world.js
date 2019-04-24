@@ -1,5 +1,5 @@
-function sentence() {
+function helloWorld() {
   return "Hello World"
 }
 
-module.exports = sentence
+module.exports = helloWorld
